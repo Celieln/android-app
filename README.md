@@ -1,4 +1,4 @@
-# Android Apps Repository
+﻿# Android Apps Repository
 
 Kumpulan aplikasi Android (APK) hasil build. Source code tidak disertakan.
 
@@ -36,4 +36,4 @@ Berkontribusi untuk membuat aplikasi lebih baik! Baca [CONTRIBUTING](CONTRIBUTIN
 
 ## Lisensi
 
-[MIT](LICENSE) © [Celieln](https://github.com/Celieln)
+[MIT](LICENSE) (c) [Celieln](https://github.com/Celieln)
